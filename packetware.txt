@@ -6,4 +6,3 @@
 &e[*] Improved &fDamage Command.
 &e[*] Fixed &fCrash bug.
 &e[*] Fixed &fButtons in Disconnect Menu.
-&e[*] Fixed &fsome bugs.
