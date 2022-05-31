@@ -1,7 +1,9 @@
-&a[+] New &fSplashProgress Loading page.
-&e[*] Fixed &fKillAura packet bug.
-&e[*] Fixed &fVanilla fly mode.
+&a[+] Added &fCopySelfIp Command.
+&a[+] Added &fGeoIP Command.
+&a[+] Added &fSkull Command.
+&a[+] Added &fTeleport Command.
+&a[+] Added &fCheck CmdBlock Command.
+&e[*] Improved &fDamage Command.
+&e[*] Fixed &fCrash bug.
+&e[*] Fixed &fButtons in Disconnect Menu.
 &e[*] Fixed &fsome bugs.
-&e[*] Improved &fMain Menu background.
-&e[*] Improved &fMatrix Antibot.
-&c[-] Removed &fDead Spoof GodMode.
