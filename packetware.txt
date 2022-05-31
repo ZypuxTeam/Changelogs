@@ -1,0 +1,7 @@
+&a[+] New &fSplashProgress Loading page.
+&e[*] Fixed &fKillAura packet bug.
+&e[*] Fixed &fVanilla fly mode.
+&e[*] Fixed &fsome bugs.
+&e[*] Improved &fMain Menu background.
+&e[*] Improved &fMatrix Antibot.
+&c[-] Removed &fDead Spoof GodMode.
