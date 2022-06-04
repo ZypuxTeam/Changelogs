@@ -1,8 +1,11 @@
-&a[+] Added &fCopySelfIp Command.
-&a[+] Added &fGeoIP Command.
-&a[+] Added &fSkull Command.
-&a[+] Added &fTeleport Command.
-&a[+] Added &fCheck CmdBlock Command.
-&e[*] Improved &fDamage Command.
-&e[*] Fixed &fCrash bug.
-&e[*] Fixed &fButtons in Disconnect Menu.
+&a[+] New &fSplash Progress Menu.
+&a[+] New &fAirjump.
+&a[+] New &fVulcan LongJump.
+&a[+] New &fVulcan Pvp Vertical Boost.
+&a[+] New &fTower Vulcan Scaffold (BETA).
+&a[+] New &fWatermark HUD.
+&a[+] New &fMatrix Speed (BETA).
+&e[*] Fixed &fNo Fall Vulcan.
+&e[*] Fixed &fFloat Vulcan Speed.
+&e[*] Fixed &fNo Jump Delay.
+&e[*] Fixed &fsome bugs, I don't remember.
